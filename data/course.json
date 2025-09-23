@@ -1,0 +1,43 @@
+{
+  "term": "Fall",
+  "year": "2003",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Language",
+      "Spanish"
+    ]
+  ],
+  "legacy_uid": "b2b1c08b-50b8-b05a-b9a1-cdd015924d57",
+  "instructors": {
+    "content": [
+      "aadce98f-d4f3-8608-de20-134ce8fb3180"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "d3e9d23b-b13f-e112-3c57-0aab41aff055",
+    "website": "21g-712-spanish-conversation-and-composition-fall-2003"
+  },
+  "course_title": "Spanish Conversation and Composition",
+  "course_description": "A third-year intermediate course designed to improve speaking and writing, with opportunities for vocabulary acquisition, listening comprehension and reading practice as well. Uses literary and cultural readings, films, and group activities. Students give oral reports and participate in discussions and group projects.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21G.712",
+  "course_image_thumbnail": {
+    "content": "8c44da13-7763-edb3-23c1-c284b31d9f18",
+    "website": "21g-712-spanish-conversation-and-composition-fall-2003"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "2f768342-b5ce-4458-b177-90887e60d358",
+  "site_short_id": "21g.712-fall-2003",
+  "site_url_path": "courses/21g-712-spanish-conversation-and-composition-fall-2003",
+  "title": "Course Metadata"
+}
