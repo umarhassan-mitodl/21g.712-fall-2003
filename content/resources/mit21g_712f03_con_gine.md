@@ -4,6 +4,8 @@ description: This resource contains the information regarding convenio ginebra.
 file: /courses/21g-712-spanish-conversation-and-composition-fall-2003/68f635d7cc4017957d4150e0df4f0cb3_MIT21G_712F03_con_gine.pdf
 file_size: 77615
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
